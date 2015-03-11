@@ -94,7 +94,9 @@ em {
 }
 
 strong {
-  font-weight:700;
+	font-weight:700;
+	font-family:Arvo, Monaco, serif;
+	font-size:18px;
 }
 
 ul {
